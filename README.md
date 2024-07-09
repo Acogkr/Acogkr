@@ -16,4 +16,4 @@ I'm Acog, a student who is passionate about learning and exploring the world of 
 - Email: [Acog.seongmin@gmail.com](mailto:acog.seongmin@gmail.com)
 - LinkedIn: [Acog](https://www.linkedin.com/in/Acogkr/)
 - Discord: [Acog#1959](https://discordapp.com/users/1959/)
-- Plugin: [Plugin's Lab](https://discord.gg/wEk9GCsrzC)
+- Plugin: [Plugin's Lab](https://discord.gg/Xf4QxHAYXs)
